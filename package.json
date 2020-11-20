@@ -1,0 +1,24 @@
+{
+  "name": "npm-pack-filename",
+  "version": "1.0.0",
+  "description": "npm pack filename",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palavrov/npm-pack-filename.git"
+  },
+  "keywords": [
+    "npm",
+    "pack",
+    "filename"
+  ],
+  "author": "Atanas Palavrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palavrov/npm-pack-filename/issues"
+  },
+  "homepage": "https://github.com/palavrov/npm-pack-filename#readme"
+}
